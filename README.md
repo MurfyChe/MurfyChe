@@ -1,7 +1,7 @@
 <h1 align="center">Eyoo i'm Murfy</h1>
 <h3 align="center">A passionate dev and cybersec specialist from Romania 🟦🟨🟥</h3>
 
-- 🔭 I’m currently working on **'invalid'**
+- 🔭 I’m currently working on **a malware**   (shhh)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
