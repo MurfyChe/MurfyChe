@@ -1,5 +1,5 @@
 <h1 align="center">Eyoo i'm Murfy</h1>
-<h3 align="center">A passionate dev and cybersec specialist from Romania 🟦🟨🟥</h3>
+<h3 align="center">A passionate dev and cybersec engineer from Romania 🟦🟨🟥</h3>
 
 - 🔭 I’m currently working on my mental sanity
 
